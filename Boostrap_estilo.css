@@ -1,0 +1,24 @@
+
+body {
+	background-color: #F0C710
+}
+
+.nav-link {
+	color: black;
+}
+
+.nav-link disabled {
+	color: white;
+}
+
+.nav {
+	background-color: #E6FF32;
+}
+
+.container-fluid {
+	background-color: #E6FF32;
+}
+
+.navbar-brand {
+	color: white;
+}
